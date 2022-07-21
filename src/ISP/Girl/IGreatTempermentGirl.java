@@ -1,7 +1,0 @@
-package ISP.Girl;
-
-//美女接口
-public interface IGreatTempermentGirl {
-    //有气质
-    void greatTemperament();
-}
